@@ -1,0 +1,9 @@
+фокстрот - http://export.admitad.com/ua/webmaster/websites/342455/coupons/export/?website=342455&advcampaigns=14571&region=00&code=9a0bfe74cb&user=klientovod&format=xml&v=1
+
+телемарт - http://export.admitad.com/ua/webmaster/websites/342455/coupons/export/?website=342455&advcampaigns=17500&region=00&code=9a0bfe74cb&user=klientovod&format=xml&v=1
+
+интертоп - http://export.admitad.com/ua/webmaster/websites/342455/coupons/export/?website=342455&advcampaigns=19130&region=00&code=9a0bfe74cb&user=klientovod&format=xml&v=1
+
+banggood - http://export.admitad.com/ua/webmaster/websites/342455/coupons/export/?website=342455&advcampaigns=13623&region=00&code=9a0bfe74cb&user=klientovod&format=xml&v=1
+
+moyo	http://export.admitad.com/ua/webmaster/websites/342455/coupons/export/?website=342455&advcampaigns=13937&region=00&code=9a0bfe74cb&user=klientovod&format=xml&v=1

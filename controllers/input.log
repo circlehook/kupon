@@ -1,0 +1,621 @@
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597163311587,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597163311215,
+                    "message": {
+                        "mid": "m_hvGaCTpRUWO4VoQajdBMQQoo3UI6OM3vNlGQt7ub_UCxF60LRL3Wpkxmam5P6J3bWLAnjkJiZyUeHvc_uSec4A",
+                        "text": "Все промокоды",
+                        "quick_reply": {
+                            "payload": "all_coupons"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597163369855,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597163369486,
+                    "message": {
+                        "mid": "m_FPveYsO7IqHxx8Rro2NqMwoo3UI6OM3vNlGQt7ub_UCxp8VWTjcHinsfgIQpIEs8j5TmsN1lie8E1B-d_Na7-A",
+                        "text": "Все промокоды",
+                        "quick_reply": {
+                            "payload": "all_coupons"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597163382365,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597163382016,
+                    "postback": {
+                        "title": "Показать ещё..",
+                        "payload": "next__1"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597163396180,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597163395834,
+                    "postback": {
+                        "title": "Показать ещё..",
+                        "payload": "next__2"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597163407577,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597163407147,
+                    "postback": {
+                        "title": "Показать ещё..",
+                        "payload": "next__3"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597163426193,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597163425832,
+                    "postback": {
+                        "title": "Показать ещё..",
+                        "payload": "next__4"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597163452707,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597163452373,
+                    "postback": {
+                        "title": "Показать ещё..",
+                        "payload": "next__5"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597163572197,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597163571864,
+                    "postback": {
+                        "title": "Показать ещё..",
+                        "payload": "next__5"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164437484,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164436951,
+                    "message": {
+                        "mid": "m_aeICA8QU6abhu4TeS8XArQoo3UI6OM3vNlGQt7ub_UD0TZlKteAJ5OU6vAQvKaDcHI8IvCDomruzOP2tcejyZQ",
+                        "text": "foxtrot"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164452533,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164452106,
+                    "message": {
+                        "mid": "m_Fr91C8jr4J-Hpu622aJcBQoo3UI6OM3vNlGQt7ub_UB8BbKdKjScFX735S6EnxPifuprUbTENzIXa2YnCG4mSQ",
+                        "text": "мойо"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164515812,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164515473,
+                    "message": {
+                        "mid": "m_gKPxF3Lfy5LnBEPIouuXfwoo3UI6OM3vNlGQt7ub_UAwRqal4nqAyf2la-QzpOdOMv6WPpbQHWEdA2xg7mLusA",
+                        "text": "ываыв"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164526668,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164526182,
+                    "message": {
+                        "mid": "m_MKL6Yx9F4Jo7-L8YeNzS3woo3UI6OM3vNlGQt7ub_UBtzmvC2Gva9wpdTa2_zzqLJNO2_UWTs3vapeePMHWUzQ",
+                        "text": "Давайте почнемо",
+                        "quick_reply": {
+                            "payload": "start"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164541080,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164540701,
+                    "message": {
+                        "mid": "m_B4grBYT2cxb4T_iaKTiPMAoo3UI6OM3vNlGQt7ub_UD1ATkwvHAgoRMc69bT4sDLtW3ncfkeDbAF8oE1GsSNXQ",
+                        "text": "мойо"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164679095,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164678590,
+                    "message": {
+                        "mid": "m_MrK9IldTLETYetb3AFd50woo3UI6OM3vNlGQt7ub_UCa5-3xi2mKzN34Batn06lNCCKocNhoDh_m1iHOrDGZ1g",
+                        "text": "Всi промокоди",
+                        "quick_reply": {
+                            "payload": "all_coupons"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164698291,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164697435,
+                    "postback": {
+                        "title": "Показати ще..",
+                        "payload": "next__1"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164712405,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164712062,
+                    "message": {
+                        "mid": "m_Za3LAn0e9V-7rA56pBSRKwoo3UI6OM3vNlGQt7ub_UCOZ8TZyGxOZr7VZVI-Wlsh2zo4ACUtKeAFnExBZEBC5w",
+                        "text": "foxtrot"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164725591,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164725206,
+                    "message": {
+                        "mid": "m_cPjulCyI_2i0KVhRwvqJ4Aoo3UI6OM3vNlGQt7ub_UBcrZnFs2xVkASRpioMaai8H7xW1Kr80m0uW74km52Myw",
+                        "text": "Всi промокоди",
+                        "quick_reply": {
+                            "payload": "all_coupons"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164881811,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164881453,
+                    "message": {
+                        "mid": "m_i637AVKXOGiYnBSpGwvo2Qoo3UI6OM3vNlGQt7ub_UAv17CkTgyLjwked-iXGsbBtVqJVxAu5PKAfSc65I3MoA",
+                        "text": "help"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164905823,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164905102,
+                    "postback": {
+                        "title": "Get Started",
+                        "payload": "get_started"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164909853,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164909475,
+                    "message": {
+                        "mid": "m_VIsd67pDYRoHBlsfn5IEdQoo3UI6OM3vNlGQt7ub_UD_NuseIhIqt3fB0MgdSX1CEDy2NwYDRffWRChq3DidPQ",
+                        "text": "Давайте почнемо",
+                        "quick_reply": {
+                            "payload": "start"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597164922064,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597164921644,
+                    "message": {
+                        "mid": "m_kKt-GQDqxQUDU04HfdMjLQoo3UI6OM3vNlGQt7ub_UDUoevbdrWRZhnz2m-5IWsqVzpExMuwhm2QRCe7O2E2NA",
+                        "text": "телемарт"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597165268736,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597165268340,
+                    "message": {
+                        "mid": "m_2Howz-IxGjr6aiSTCqMqKQoo3UI6OM3vNlGQt7ub_UBODjqCzZxVLDnhqf6w8hMICFbLy4xkJkuBm7_EWxTayg",
+                        "text": "факстрот"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597168027099,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597168026152,
+                    "postback": {
+                        "title": "Get Started",
+                        "payload": "get_started"
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597168031036,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597168030726,
+                    "message": {
+                        "mid": "m_jWpTRm6tdEPtpOVGt2Qywwoo3UI6OM3vNlGQt7ub_UAkK6Uub3q_7Vml2lev2WqbRCdy3vAYLLN6jKEbFqdg2g",
+                        "text": "Давайте почнемо",
+                        "quick_reply": {
+                            "payload": "start"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
+{
+    "object": "page",
+    "entry": [
+        {
+            "id": "106841041103609",
+            "time": 1597168036446,
+            "messaging": [
+                {
+                    "sender": {
+                        "id": "2953614638082813"
+                    },
+                    "recipient": {
+                        "id": "106841041103609"
+                    },
+                    "timestamp": 1597168036073,
+                    "message": {
+                        "mid": "m_4x2AlJqBNX7_JMZc6nqCmgoo3UI6OM3vNlGQt7ub_UCH9qMoRwzzog5FtZcRpPlEJtRDjPpGC07q7-QPPi8nHw",
+                        "text": "телемарт"
+                    }
+                }
+            ]
+        }
+    ]
+}

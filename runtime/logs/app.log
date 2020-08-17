@@ -1,0 +1,263 @@
+2020-08-11 20:08:28 [188.163.45.82][-][9861db03f63ed3aba50160d65ea5294b][error][Error] Error: Class 'app\controllers\AccessControl' not found in /home/finbox/credy.com.ua/bots/kupon/controllers/UsersController.php:30
+Stack trace:
+#0 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Component.php(733): app\controllers\UsersController->behaviors()
+#1 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Component.php(603): yii\base\Component->ensureBehaviors()
+#2 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Controller.php(299): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#3 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/web/Controller.php(200): yii\base\Controller->beforeAction(Object(yii\base\InlineAction))
+#4 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Controller.php(178): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#5 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#6 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('users/index', Array)
+#7 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/finbox/credy.com.ua/bots/kupon/web/index.php(12): yii\base\Application->run()
+#9 {main}
+2020-08-11 20:08:28 [188.163.45.82][-][9861db03f63ed3aba50160d65ea5294b][info][application] $_GET = [
+    'r' => 'users/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'bfc1486b651661032b37c1c5539260abc855f57d5dca51d9c9daa08ff9d631aba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"-X1V00yeePIl58bGQgeBkqLucSLZdC3j\";}'
+    'PHPSESSID' => '9861db03f63ed3aba50160d65ea5294b'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'TMPDIR' => '/home/finbox/.system/tmp'
+    'PHPRC' => '/home/finbox/.system/php/bots.credy.com.ua.ini'
+    'LC_ALL' => 'ru_RU.CP1251'
+    'TEMP' => '/home/finbox/.system/tmp'
+    'PATH' => '/usr/local/bin:/usr/bin:/bin'
+    'PWD' => '/home/finbox/credy.com.ua/bots/'
+    'SHLVL' => '0'
+    'TMP' => '/home/finbox/.system/tmp'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_CONNECTION' => 'close'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_COOKIE' => '_csrf=bfc1486b651661032b37c1c5539260abc855f57d5dca51d9c9daa08ff9d631aba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22-X1V00yeePIl58bGQgeBkqLucSLZdC3j%22%3B%7D; PHPSESSID=9861db03f63ed3aba50160d65ea5294b'
+    'HTTP_HOST' => 'bots.credy.com.ua'
+    'HTTP_REFERER' => 'https://bots.credy.com.ua/kupon/web/index.php'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36'
+    'HTTP_GEOIP_COUNTRY_CODE' => 'UA'
+    'HTTP_SSL' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'UNIQUE_ID' => 'XzLQjJ@bSOjJ@0Dkfbh1ugAAAN0'
+    'DETECTED_CMS' => 'undefined'
+    'HTTPS' => 'on'
+    'SCRIPT_URL' => '/kupon/web/index.php'
+    'SCRIPT_URI' => 'http://bots.credy.com.ua/kupon/web/index.php'
+    'vhost_id' => '1556385'
+    'account_id' => '137965'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'bots.credy.com.ua'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '188.163.45.82'
+    'DOCUMENT_ROOT' => '/home/finbox/credy.com.ua/bots/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/finbox/credy.com.ua/bots/'
+    'SERVER_ADMIN' => 'dn031086koa@gmail.com'
+    'SCRIPT_FILENAME' => '/home/finbox/credy.com.ua/bots/kupon/web/index.php'
+    'REMOTE_PORT' => '25849'
+    'SERVER_PROTOCOL' => 'HTTP/1.0'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=users%2Findex'
+    'REQUEST_URI' => '/kupon/web/index.php?r=users%2Findex'
+    'SCRIPT_NAME' => '/kupon/web/index.php'
+    'PHP_SELF' => '/kupon/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1597165708.3035
+    'REQUEST_TIME' => 1597165708
+]
+2020-08-11 20:10:32 [188.163.45.82][-][9861db03f63ed3aba50160d65ea5294b][error][Error] Error: Class 'app\controllers\AccessControl' not found in /home/finbox/credy.com.ua/bots/kupon/controllers/CouponController.php:30
+Stack trace:
+#0 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Component.php(733): app\controllers\CouponController->behaviors()
+#1 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Component.php(603): yii\base\Component->ensureBehaviors()
+#2 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Controller.php(299): yii\base\Component->trigger('beforeAction', Object(yii\base\ActionEvent))
+#3 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/web/Controller.php(200): yii\base\Controller->beforeAction(Object(yii\base\InlineAction))
+#4 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Controller.php(178): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#5 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#6 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('coupon/index', Array)
+#7 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/finbox/credy.com.ua/bots/kupon/web/index.php(12): yii\base\Application->run()
+#9 {main}
+2020-08-11 20:10:32 [188.163.45.82][-][9861db03f63ed3aba50160d65ea5294b][info][application] $_GET = [
+    'r' => 'coupon/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => 'bfc1486b651661032b37c1c5539260abc855f57d5dca51d9c9daa08ff9d631aba:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"-X1V00yeePIl58bGQgeBkqLucSLZdC3j\";}'
+    'PHPSESSID' => '9861db03f63ed3aba50160d65ea5294b'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => 'https://bots.credy.com.ua/kupon/web/index.php?r=users%2Findex'
+]
+
+$_SERVER = [
+    'TMPDIR' => '/home/finbox/.system/tmp'
+    'PHPRC' => '/home/finbox/.system/php/bots.credy.com.ua.ini'
+    'LC_ALL' => 'ru_RU.CP1251'
+    'TEMP' => '/home/finbox/.system/tmp'
+    'PATH' => '/usr/local/bin:/usr/bin:/bin'
+    'PWD' => '/home/finbox/credy.com.ua/bots/'
+    'SHLVL' => '0'
+    'TMP' => '/home/finbox/.system/tmp'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_CONNECTION' => 'close'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_COOKIE' => '_csrf=bfc1486b651661032b37c1c5539260abc855f57d5dca51d9c9daa08ff9d631aba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22-X1V00yeePIl58bGQgeBkqLucSLZdC3j%22%3B%7D; PHPSESSID=9861db03f63ed3aba50160d65ea5294b'
+    'HTTP_HOST' => 'bots.credy.com.ua'
+    'HTTP_REFERER' => 'https://bots.credy.com.ua/kupon/web/index.php?r=site%2Flogin'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36'
+    'HTTP_GEOIP_COUNTRY_CODE' => 'UA'
+    'HTTP_SSL' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'UNIQUE_ID' => 'XzLRCGcivto99Iz5nqN3MwAAAEE'
+    'DETECTED_CMS' => 'undefined'
+    'HTTPS' => 'on'
+    'SCRIPT_URL' => '/kupon/web/index.php'
+    'SCRIPT_URI' => 'http://bots.credy.com.ua/kupon/web/index.php'
+    'vhost_id' => '1556385'
+    'account_id' => '137965'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'bots.credy.com.ua'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '188.163.45.82'
+    'DOCUMENT_ROOT' => '/home/finbox/credy.com.ua/bots/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/finbox/credy.com.ua/bots/'
+    'SERVER_ADMIN' => 'dn031086koa@gmail.com'
+    'SCRIPT_FILENAME' => '/home/finbox/credy.com.ua/bots/kupon/web/index.php'
+    'REMOTE_PORT' => '32123'
+    'SERVER_PROTOCOL' => 'HTTP/1.0'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=coupon%2Findex'
+    'REQUEST_URI' => '/kupon/web/index.php?r=coupon%2Findex'
+    'SCRIPT_NAME' => '/kupon/web/index.php'
+    'PHP_SELF' => '/kupon/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1597165832.793
+    'REQUEST_TIME' => 1597165832
+]
+2020-08-11 20:24:42 [188.163.45.82][100][9a609a6e781b231117bda65f2563f2ca][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The 'label' option is required. in /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2-bootstrap/src/Nav.php:170
+Stack trace:
+#0 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2-bootstrap/src/Nav.php(152): yii\bootstrap\Nav->renderItem(Array)
+#1 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2-bootstrap/src/Nav.php(139): yii\bootstrap\Nav->renderItems()
+#2 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Widget.php(140): yii\bootstrap\Nav->run()
+#3 /home/finbox/credy.com.ua/bots/kupon/views/layouts/main.php(58): yii\base\Widget::widget(Array)
+#4 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/View.php(348): require('/home/finbox/cr...')
+#5 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/finbox/cr...', Array)
+#6 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Controller.php(424): yii\base\View->renderFile('/home/finbox/cr...', Array, Object(app\controllers\UsersController))
+#7 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Controller.php(410): yii\base\Controller->renderContent('<div class="use...')
+#8 /home/finbox/credy.com.ua/bots/kupon/controllers/UsersController.php(55): yii\base\Controller->render('index', Array)
+#9 [internal function]: app\controllers\UsersController->actionIndex()
+#10 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#11 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#12 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#13 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('users/index', Array)
+#14 /home/finbox/credy.com.ua/bots/kupon/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#15 /home/finbox/credy.com.ua/bots/kupon/web/index.php(12): yii\base\Application->run()
+#16 {main}
+2020-08-11 20:24:41 [188.163.45.82][100][9a609a6e781b231117bda65f2563f2ca][info][application] $_GET = [
+    'r' => 'users/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '9a609a6e781b231117bda65f2563f2ca'
+    '_csrf' => '54f374e163ffe1604c44bedb81ec7861e8dfddea9b9f77055fa48071a97b334aa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"Sxeq2BVl9_ysJNgfNWTQ0dzUue97lqYm\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__returnUrl' => 'https://bots.credy.com.ua/kupon/web/index.php?r=log%2Findex'
+    '__id' => '100'
+]
+
+$_SERVER = [
+    'TMPDIR' => '/home/finbox/.system/tmp'
+    'PHPRC' => '/home/finbox/.system/php/bots.credy.com.ua.ini'
+    'LC_ALL' => 'ru_RU.CP1251'
+    'TEMP' => '/home/finbox/.system/tmp'
+    'PATH' => '/usr/local/bin:/usr/bin:/bin'
+    'PWD' => '/home/finbox/credy.com.ua/bots/'
+    'SHLVL' => '0'
+    'TMP' => '/home/finbox/.system/tmp'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_CONNECTION' => 'close'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_COOKIE' => 'PHPSESSID=9a609a6e781b231117bda65f2563f2ca; _csrf=54f374e163ffe1604c44bedb81ec7861e8dfddea9b9f77055fa48071a97b334aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Sxeq2BVl9_ysJNgfNWTQ0dzUue97lqYm%22%3B%7D'
+    'HTTP_HOST' => 'bots.credy.com.ua'
+    'HTTP_REFERER' => 'https://bots.credy.com.ua/kupon/web/index.php?r=coupon%2Findex'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_GEOIP_COUNTRY_CODE' => 'UA'
+    'HTTP_SSL' => '1'
+    'HTTP_X_FORWARDED_PROTO' => 'https'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'UNIQUE_ID' => 'XzLUWYMC4LlHYWmngabl8wAAAHM'
+    'DETECTED_CMS' => 'undefined'
+    'HTTPS' => 'on'
+    'SCRIPT_URL' => '/kupon/web/index.php'
+    'SCRIPT_URI' => 'http://bots.credy.com.ua/kupon/web/index.php'
+    'vhost_id' => '1556385'
+    'account_id' => '137965'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'bots.credy.com.ua'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '188.163.45.82'
+    'DOCUMENT_ROOT' => '/home/finbox/credy.com.ua/bots/'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/home/finbox/credy.com.ua/bots/'
+    'SERVER_ADMIN' => 'dn031086koa@gmail.com'
+    'SCRIPT_FILENAME' => '/home/finbox/credy.com.ua/bots/kupon/web/index.php'
+    'REMOTE_PORT' => '8878'
+    'SERVER_PROTOCOL' => 'HTTP/1.0'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=users%2Findex'
+    'REQUEST_URI' => '/kupon/web/index.php?r=users%2Findex'
+    'SCRIPT_NAME' => '/kupon/web/index.php'
+    'PHP_SELF' => '/kupon/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1597166681.9557
+    'REQUEST_TIME' => 1597166681
+]
